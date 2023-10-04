@@ -6,6 +6,7 @@ padding: 0%;
 .cabeçalho{
 background-color: lemonchiffon;
 color: black;
+font-size: 50px;
 }
 
 .cabeçalho_imagem{
@@ -13,7 +14,7 @@ width: 12%;
 }
 
 .cabeçalho_titulo{
-font-size: 50px;
+font-size: 70px;
 }
 
 .cabeçalho_lista_item{
