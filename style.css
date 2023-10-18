@@ -23,7 +23,7 @@ font-size: 50px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(lemonchiffon, #dd371a);
+background-image: linear-gradient(rgb(250, 255, 205), #dd371a);
 }
 
 .titulo_apresentaçao_trabalho{
